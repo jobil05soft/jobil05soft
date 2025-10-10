@@ -60,6 +60,3 @@ Atualmente, estou focado em:
 ⭐️ _Se gostou dos meus projetos, não esqueça de deixar uma estrela!_
 
 ---
-
-![Visitors](https://komarev.com/ghpvc/?username=Jobil-05-soft&color=blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jobil-05-soft&show_icons=true&theme=tokyonight)
